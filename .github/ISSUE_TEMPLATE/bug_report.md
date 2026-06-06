@@ -11,6 +11,8 @@ assignees: ''
 
 **Game version**
 
+**Mod list**
+
 **Operating system name/version**
 
 **Describe the bug**
