@@ -11,9 +11,11 @@ assignees: ''
 
 **Game version**
 
-**Mod list**
+**Single or Multiplayer?**
 
 **Operating system name/version**
+
+**Mod list**
 
 **Describe the bug**
 A clear and concise description of what the bug is.
